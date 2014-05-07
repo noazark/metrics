@@ -67,7 +67,7 @@ module.exports =
 
     @defaultParams: ->
       v: 1
-      tid: "UA-3769691-33"
+      tid: "UA-50759866-1"
       cid: atom.config.get('metrics.userId')
       an: 'atom'
       av: atom.getVersion()
